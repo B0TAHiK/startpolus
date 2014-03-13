@@ -82,7 +82,7 @@
                     <?php include "news.php" ?>
                     </td>
                         <td valign="top"><div class="text" align="center"><br>
-                            <table border="0" cellpadding="7" cellspacing="0" width="98%">
+                            <table>
                                 <tbody>
                                     <td valign="top" width="98%">
                                         <div class="text">

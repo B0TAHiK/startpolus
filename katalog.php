@@ -213,4 +213,5 @@ return false;" href="#"><img src="images/p3.gif" alt="сделать старт�
 	
 <?php include "bot.php" ?>
     
-    </body>
+</body>
+</html>

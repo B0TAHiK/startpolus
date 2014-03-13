@@ -11,5 +11,6 @@
             <li class="passive"><a href="ra.php">Для РА</a></li>
             <li class="passive"><a href="rekomend.php">Производство</a></li>
             <li class="passive"><a href="job.php">Вакансии</a></li>
+            <li class="passive"><a href="adres.php">Контакты</a></li>
             </ul>
         </div></td>
