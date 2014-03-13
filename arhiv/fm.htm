@@ -1,0 +1,65 @@
+<html>
+<head>
+<title>Форма-почтой (тест-пример)</title>
+<style type="text/css">
+<!--
+.header1 {font-family: Arial; font-size:17px;}
+.text {font-family: Arial; font-size:14px;}
+.date {font-family: Arial; font-size:12px;}
+
+//-->
+</style><!--mstheme--><link rel="stylesheet" type="text/css" href="_themes/blitz/blit1110-1251.css"><meta name="Microsoft Theme" content="blitz 1110, default">
+</head>
+<body topmargin=10 bottommargin=10 leftmargin=0 rightmargin=0 marginheight=10 marginwidth=0>
+<center>
+
+<table cellpadding=0 cellspacing=0 border=0 width=420>
+<tr><td class=header1 align=center bgcolor="#4277D3" height=18><font color=white><b>Форма-почтой</b></font></td></tr>
+
+<tr><td align=center>
+
+<form method="post" action="/scgi/fm.pl">
+<INPUT TYPE=hidden NAME=page value="/stdcgi/fmok.html">
+<INPUT TYPE=hidden NAME=subject value="Тестовый скрипт форма-почтой">
+<table border=0 cellpadding=0 cellspacing=0>
+<tr><td colspan=2 height=14></td></tr>
+<tr><td class=text>Имя:</td><td><input type="text" name="name" style="font-family: Arial; font-size:12px; width:280px" size=25></td></tr>
+<tr><td class=text>E-mail:</td><td><input type="text" name="email" style="font-family: Arial; font-size:12px; width:280px" size=25></td></tr>
+<tr><td class=text>Homepage:&nbsp;&nbsp;</td><td><input type="text" name="homepage" style="font-family: Arial; font-size:12px; width:280px" size=25></td></tr>
+<tr><td class=text>Город:</td><td><input type="text" name="city" style="font-family: Arial; font-size:12px; width:280px" size=25></td></tr>
+<tr><td colspan=2 class=text height=30 valign=bottom>Текст сообщения:</td></tr>
+<tr><td colspan=2><textarea name=text rows=6 cols=42 style="font-family: Arial; font-size:12px; width:360px" wrap=virtual></textarea></td></tr>
+<tr><td colspan=2 height=40 align=center class=text><input type=submit value="Отправить" style="font-family: Arial; font-size:13px;">&nbsp;&nbsp;<input type=reset value=Отмена style="font-family: Arial; font-size:13px;"></td></tr>
+</table>
+
+</td></tr>
+<tr><td align=center bgcolor="orange" height=18 class=text><font color=white>&nbsp;
+<tr><td height=10></td></tr>
+<tr><td align=center> 
+<table border=0 cellpadding=0 cellspacing=0 width=360>
+<tr><td class=text width=120>Кому (To):</td><td align=right><input type="text" name="To" style="font-family: Arial; font-size:12px; width:280px" size=25></td></tr>
+<tr><td class=date colspan=2>Введите в это поле Ваш e-mail, на который придет результат работы скрипта.</td></tr>
+</table>
+</td></tr>
+
+<tr><td class=text height=40><hr></td></tr>
+
+<tr><td class=date align=center>
+<script language=javascript>
+<!--
+function viewsource(){
+window.location="view-source:"+window.location
+}
+//-->
+</script>
+<a href="javascript:viewsource()">Посмотреть исходник данной страницы</a><br>
+<a href="../gbk.phtml">Описание и настройка скрипта</a>
+</td></tr>
+</table>
+
+
+<img src="/images/banners/88x31wbs.gif" width=88 vspace=10 height=31>
+
+</center>
+</body>
+</html>
