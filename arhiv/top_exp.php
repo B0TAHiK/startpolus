@@ -9,7 +9,10 @@
 <link rel="stylesheet" type="text/css" href="navigation.css">
 </head>
 <body>
-    <div class="top-color">
+    <div id="navigation" class="top-color">
+        <img src="images/logo1-tr.png">
+        <img src="images/logos.gif">
+        <span><font color="#ffffff" size="5"><b>+7 (495) 223-32-81<br></b></font><font color="#ffffff" size="2">многоканальный</font><b></b></span>
         <ul>
             <li class="active"><b><font color="#333399">Главная</font></b></li>
             <li class="passive"><a href="katalog.php">Каталог</a></li>

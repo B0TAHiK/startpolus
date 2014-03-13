@@ -26,6 +26,7 @@ body {
     margin-right: auto;
 }
 .all{
+    border-radius: 5px;
     background: white;
     padding: 5px;
     padding-left: 8px;
@@ -90,4 +91,31 @@ td.top {
     font-weight: bold;
     font-size: 12px;
     text-align: left;
+}
+div.bot {
+    width:100%;
+    background-color:#041765;
+    height:30px;
+    text-align:center;
+    margin:0 auto;
+    border-radius: 5px;
+}
+#bot .botpanel {
+    font-size: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align:center;
+    margin:0 auto;
+    color:#ffffff;
+}
+#bot .copyright {
+    text-align:left;
+    padding-left:10px;
+    padding-right:50px;
+    font-size: 12px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#bot a {
+    color:#FFFFFF;
 }
