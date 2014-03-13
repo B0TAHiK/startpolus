@@ -1,12 +1,9 @@
 body {
-    FONT-WEIGHT: normal;
-    FONT-SIZE: 11px;
-    COLOR: #666666;
+
     padding-right: 0px;
     PADDING-TOP: 1px;
     padding-left: 0px;
     FONT-FAMILY: Tahoma, verdana;
-    TEXT-DECORATION: none;
     /* IE10 Consumer Preview */ 
     background-image: -ms-linear-gradient(top, #FFFFFF 0%, #EDEADA 100%);
 
@@ -28,19 +25,21 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-div.all{
+.all{
     background: white;
     padding: 5px;
-    font-size: 12px;
     padding-left: 8px;
     padding-right: 10px;
     padding-top: 5px;
-    COLOR: #666666;
 }
-td {
+table.top {
     font-size: 11px;
     color: #666666;
     TEXT-DECORATION: none;
+}
+td {
+    font-size: 12px;
+
 }
 .news {
     font-size: 11px;
@@ -50,9 +49,11 @@ td {
     COLOR: #666666;
 }
 .text {
-
+    font-size: 12px;
+    color: #666666;
+    text-align: justify;
 }
-h1,h3 {
+.top h1 h3 {
     font-size: 12px;
     padding-left: 0px;
     padding-right: 0px;
@@ -72,8 +73,9 @@ h1,h3 {
 }
 td.top {
     background-color: #041865;
+    font-size: 12px;
 }
-div.head {
+.head {
     color: #333399;
     font-weight: bold;
     font-size: 14px;
@@ -82,4 +84,10 @@ div.head {
     color: #333399;
     font-weight: bold;
     font-size: 11px;
+}
+.head2 {
+    color: #333399;
+    font-weight: bold;
+    font-size: 12px;
+    text-align: left;
 }
