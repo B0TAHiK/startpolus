@@ -40,4 +40,4 @@
 			<tr>
 				<td background="images/bg2.gif" height="1"></td>
 
-			</tr></tbody></table>111
+			</tr></tbody></table>
