@@ -1,7 +1,7 @@
 <td>
                     <div id="navigation" class="top-color">
         <img src="images/logo1-tr.png">
-        <img src="images/logos.gif">
+        <img src="images/logo.png" width="133">
         <span><font color="#ffffff" size="5"><b>+7 (495) 223-32-81<br></b></font><font color="#ffffff" size="2">многоканальный</font><b></b></span>
         <ul>
             <li class="active"><b>Главная</b></li>
