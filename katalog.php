@@ -1,4 +1,8 @@
-﻿<html>
+<?php
+    session_start();
+    $thisPage="katalog";
+?>﻿
+<html>
     <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
 <title>Каталог - бумажных пакетов, полиэтиленовых пакетов, 

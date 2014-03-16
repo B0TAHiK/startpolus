@@ -17,9 +17,6 @@
     border-radius: 5px 5px 0 0;
     FONT-SIZE: 12px;
 }
-#navigation a {
-    color: #FFFFFF;
-}
 #navigation.top-color {
     FONT-FAMILY: Tahoma, Arial, Verdana;
     width: 1000px;
@@ -59,6 +56,12 @@
     height:20px;
     background-color: #FFFFFF;
     color:#333399;
+}
+.active a {
+    color:#333399;
+}
+.passive a {
+    color:#FFFFFF;
 }
 #navigation .passive{
     z-index:1;

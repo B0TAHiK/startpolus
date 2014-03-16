@@ -1,3 +1,7 @@
+<?php
+    session_start();
+    $thisPage="adres";
+?>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
@@ -35,10 +39,10 @@
                 <a href="mailto:albina@start-polus.ru">albina@start-polus.ru</a><br><br>
                 Сепиашвили Альберт (495) 223-3281<br>
                 <a href="mailto:albert@start-polus.ru">albert@start-polus.ru</a><br><br>
-                <div class="head">Часы работы:</div>
+                <div class="head2">Часы работы:</div>
                 понедельник - пятница: с 10-00 до 18-00 без перерыва на обед,<br>
                 суббота: работаем по предварительным заявкам оптовых клиентов.<br><br>
-                <div class="head">Проезд:</div>
+                <div class="head2">Проезд:</div>
                 Ст. м. Преображенская пл., далее на любом трамвае в сторону ВДНХ до остановки "Объединение "ЛИТ".Мы находимся в здании НИИ Резиновых изделий - 12-ти этажное сиреневое здание. На проходной самостоятельно выписываете пропуск в фирму "Старт Полюс". Обращаем ваше внимание, что размещение автотранспорта на территории института платное. Въезд легкового а/м стоит 50 руб., грузового а/м до 3,5 тонн - 100 руб., свыше 3,5 тонн - 150 руб.<br>
                 <div align=center><img border="0" src="images/shema.gif" width="380" height="297"></div>
             </td>

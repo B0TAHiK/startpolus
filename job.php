@@ -1,3 +1,7 @@
+<?php
+    session_start();
+    $thisPage="job";
+?>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">

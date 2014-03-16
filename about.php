@@ -1,6 +1,9 @@
+<?php
+    session_start();
+    $thisPage="about";
+?>
 <html>
     <head>
-
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
 <title>О фирме Start - polus. </title>
 <meta name="Description" content="Производство полиэтиленовых пакетов, 
