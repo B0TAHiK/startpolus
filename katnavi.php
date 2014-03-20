@@ -1,15 +1,13 @@
-﻿<?php
-echo<<<_END
-<table border="0" width="202" cellspacing="0" cellpadding="0">
-			<tr>
-				<td height=18 background=images/bg4.gif><h3> &nbsp;&nbsp;
-				<font color="#333399">Каталог</font></td>
+                    <img src="images/01.gif" height="5" width="43" alt="">
+                    <table border="0" cellpadding="0" cellspacing="0" width="202">
+			<tbody class="news">
+                            <tr>
+				<td background="images/bg4.gif" height="18">
+				<div class="head">&nbsp;&nbsp;Каталог</div></td>
 			</tr>
-			<tr>
-				<td background=images/bg3.gif><br>
-			<font color="#333399">
-			<img border="0" src="images/01.gif" width="9" height="1"><b>Бумажные пакеты:</b></font><br>
-
+                <div class="text">
+				<td background=images/bg3.gif>
+			<div class="head">&nbsp;&nbsp;Бумажные пакеты:</div>
 			<img border="0" src="images/01.gif" width="2" height="67" align="left"><a href="bumglos.php#bummat"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp;
 				с матовой ламинацией</span></a>
 			<br><a href="bumglos.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; с глянцевой ламинацией</span></a>
@@ -20,7 +18,7 @@ echo<<<_END
 			<img border="0" src="images/01.gif" width="9" height="1"><b><span style="text-decoration: none">Полиэтиленовые пакеты</span></b></font></a><br><br>
 
 		<font color="#333399">
-		<img border="0" src="images/01.gif" width="9" height="1"><b>Подарочная упаковка:<br></b>
+		<div class="head">&nbsp;&nbsp;Подарочная упаковка:</div>
 				<img border="0" src="images/01.gif" width="2" height="330" align="left"></font><a href="pod-bant1.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp;
 				банты-бабочки и шары</span></a><span class="sss">
 <br><a href="pod-bant2.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp;
@@ -30,9 +28,7 @@ echo<<<_END
 
 				<img border="0" src="images/01.gif" width="14" height="8">производство/</a>
 </td>
-			<tr>
+</tr><tr>
 				<td height=1 background=images/bg2.gif></td>
 
-			</table>
-_END;
-?>
+</table>
