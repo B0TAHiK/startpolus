@@ -33,16 +33,6 @@ try { var yaCounter38305 = new Ya.Metrika({id:38305});
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/38305" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-48985910-1', 'start-polus.ru');
-  ga('send', 'pageview');
-
-</script>
 </noindex><br>
 <font color="#666666" size="1px" align="center">бумажные пакеты - производство - полиэтиленовые пакеты - фирменные пакеты - печать - пакеты логотип - шелкография - изготовление<img src="images/01.gif" height="1" width="20">
 </font></div>

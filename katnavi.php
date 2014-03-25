@@ -24,9 +24,7 @@
 <br><a href="pod-bant2.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp;
 				банты-звездочки и розочки</span></a><span class="sss">
 <br><a href="pod-kosmet.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; Косметички</a>
-<br><a href="pod-pakhand.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; Пакеты бумажные /собственное<br>
-
-				<img border="0" src="images/01.gif" width="14" height="8">производство/</a>
+<br><a href="pod-pakhand.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; Пакеты бумажные / собственное производство</a>
 </td>
 </tr><tr>
 				<td height=1 background=images/bg2.gif></td>
