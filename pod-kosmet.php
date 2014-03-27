@@ -5,8 +5,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
-<title>подарочная упаковка косметички бумажные пакеты с символикой фирмы с логотипом полиэтиленовые пакеты с фирменной символикой изготовление пакетов, фирменные пакеты, пакеты ПВД ПНД заказ</title>
-<meta name="Description" content="подарочная упаковка косметички бумажные пакеты с символикой фирмы изготовление производство логотип полиэтиленовые пакеты, фирменные пакеты">
+<title>Косметички</title>
+<meta name="Description" content="Косметички ">
 <meta name="Keywords" content="подарочная упаковка косметички изготовление производство коробки бумажные пакеты с символикой фирмы, пакеты полиэтиленовые с символикой фирмы, нанесение">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" type="text/css" href="navigation.css">
