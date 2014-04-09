@@ -13,6 +13,7 @@
 			<br><a href="bumglos.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; с глянцевой ламинацией</span></a>
 			<br><a href="bumbezlam.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; без ламинации</span></a>
 			<br><a href="bumefalin.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; из эфалина</span></a>
+                        <br><a href="pod-pakhand.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; Пакеты бумажные под нанесение</a>
 			<br><a href="bumbox.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; коробки</span></a>
 <br><br><a href="polipaket.php"><font color="#333399">
 			<img border="0" src="images/01.gif" width="9" height="1"><b><span style="text-decoration: none">Полиэтиленовые пакеты</span></b></font></a><br><br>
@@ -24,7 +25,7 @@
 <br><a href="pod-bant2.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp;
 				банты-звездочки и розочки</span></a><span class="sss">
 <br><a href="pod-kosmet.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; Косметички</a>
-<br><a href="pod-pakhand.php"><img border="0" src="images/p6.gif" width="9" height="8"><span class="sss">&nbsp; Пакеты бумажные / собственное производство</a>
+
 </td>
 </tr><tr>
 				<td height=1 background=images/bg2.gif></td>

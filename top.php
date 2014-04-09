@@ -10,29 +10,20 @@ echo<<<_END
 _END;
 if ($thisPage=="index") {
     echo " class=\"active\"";
-    echo "><a href=\"index.html\"><b>Главная</b></a></li>
+    echo "><a href=\"index.php\"><b>Главная</b></a></li>
         <li";
 } else {
     echo " class=\"passive\"";
-    echo "><a href=\"index.html\"><b>Главная</b></a></li>
+    echo "><a href=\"index.php\"><b>Главная</b></a></li>
         <li";
 };
-if ($thisPage=="katalog") {
-    echo " class=\"active\"";
-    echo ">Каталог</li>
-        <li";
-} else {
-    echo " class=\"passive\"";
-    echo "><a href=\"katalog.php\"><b>Каталог</b></a></li>
-        <li";    
-};
-if ($thisPage=="about") {
+if ($thisPage=="rekomend") {
       echo " class=\"active\"";
-      echo "><a href=\"about.php\">О фирме</a></li>
+      echo "><a href=\"rekomend.php\">Производство</a></li>
         <li";
 } else {
     echo " class=\"passive\"";
-    echo "><a href=\"about.php\">О фирме</a></li>
+    echo "><a href=\"rekomend.php\">Производство</a></li>
         <li";
 };
 if ($thisPage=="region") {
@@ -46,29 +37,20 @@ if ($thisPage=="region") {
 };
 if ($thisPage=="ra") {
       echo " class=\"active\"";
-      echo "><a href=\"ra.php\">Для РА</a></li>
+      echo "><a href=\"ra.php\">Рекламным агенствам</a></li>
         <li";
 } else {
     echo " class=\"passive\"";
-    echo "><a href=\"ra.php\">Для РА</a></li>
+    echo "><a href=\"ra.php\">Рекламным агенствам</a></li>
         <li";
 };
-if ($thisPage=="rekomend") {
+if ($thisPage=="about") {
       echo " class=\"active\"";
-      echo "><a href=\"rekomend.php\">Производство</a></li>
+      echo "><a href=\"about.php\">О компании</a></li>
         <li";
 } else {
     echo " class=\"passive\"";
-    echo "><a href=\"rekomend.php\">Производство</a></li>
-        <li";
-};
-if ($thisPage=="job") {
-      echo " class=\"active\"";
-      echo "><a href=\"job.php\">Вакансии</a></li>
-        <li";
-} else {
-    echo " class=\"passive\"";
-    echo "><a href=\"job.php\">Вакансии</a></li>
+    echo "><a href=\"about.php\">О компании</a></li>
         <li";
 };
       if ($thisPage=="adres") {
