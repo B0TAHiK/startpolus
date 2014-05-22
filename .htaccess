@@ -1,1 +1,2 @@
 Redirect /index.html http://www.start-polus.ru
+Redirect /bummat.php http://www.start-polus.ru/bumglos.php#bummat

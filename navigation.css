@@ -45,8 +45,8 @@
 #navigation.top-color img {
     padding-left:12px;
 }
-#navigation.top-color span {
-    padding-top:10px;
+#navigation.top-color span.right {
+    padding-top:25px;
     padding-right:20px;
     text-align: right;
     float:right;
@@ -77,4 +77,20 @@
     PADDING-TOP:0px;
     FONT-FAMILY: Tahoma, Arial, Verdana;
     TEXT-DECORATION: none;
+}
+ #navigation .midtop {
+     font-style: italic;
+     font-weight: bold;
+     font-family: book antiqua;
+     display:inline-block;
+    position:relative;
+    FONT-SIZE: 18px;
+    text-align:center;
+    width:400px;
+    color:white;
+    bottom:30px;
+    left: 100px;
+}
+#navigation .mail {
+    color:white;
 }

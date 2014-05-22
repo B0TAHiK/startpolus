@@ -5,9 +5,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
-<title>Бумажные пакеты без ламинации, из крафт бумаги с символикой фирмы</title>
-<meta name="Description" content="Бумажные пакеты без ламинации, из крафт бумаги с символикой фирмы">
-<meta name="Keywords" content="бумажные пакеты без ламинации из крафт бумаги из картона лен с символикой фирмы, пакеты полиэтиленовые с символикой фирмы, производство изготовление пакетов, пакеты печать">
+<title>Пакеты из крафт бумаги, из картона, пакеты из дизайнерской бумаги</title>
+<meta name="Description" content="Компания Старт Полюс производит бумажные пакеты из крафт бумаги, из картона, пакеты из дизайнерской бумаги">
+<meta name="Keywords" content="бумажные пакеты, бумажные пакеты производство, бумажные пакеты на заказ, бумажные пакеты с логотипом, пакеты из картона, пакеты из эфалина, готовые бумажные пакеты">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" type="text/css" href="navigation.css">
 </head>
@@ -131,7 +131,7 @@
                             <td></td>
 			</tr>
                     </table>
-			<div class="head2">III) пакеты из картона лен 200 г</div>
+                        <div class="head2"><a name="len"></a>III) пакеты из картона лен 200 г</div>
 			Оптимальны при изготовлении тиражом от 1000 экземпляров.<br>
                     <table border="0" width="94%" cellspacing="4" cellpadding="0" align=center>
 			<tr>

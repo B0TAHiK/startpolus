@@ -2,9 +2,10 @@
 echo<<<_END
 <td>
         <div id="navigation" class="top-color">
-        <img src="images/logo1-tr.png">
-        <img src="images/logo.png" width="133">
-        <span><font color="#ffffff" size="5"><b>+7 (495) 223-32-81<br></b></font><font color="#ffffff" size="2">многоканальный</font><b></b></span>
+        <img src="images/logo1-tr.png" alt="Логотип компании Старт Полюс">
+        <img src="images/logo.png" width="133" alt="Логотип компании Старт Полюс">
+        <span class="right"><font color="#ffffff" size="3"><b><a class="mail" href="mailto:sale@start-polus.ru">sale@start-polus.ru</a><br><br>+7 (495) 223-32-81<br></b></font><font color="#ffffff" size="2">многоканальный</font><b></b></span>
+        <div class="midtop">15 лет делаем бумажные пакеты. Профессионально! Качественно! В срок!</div>
         <ul>
             <li
 _END;

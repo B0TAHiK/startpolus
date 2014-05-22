@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
 <title>Коробки из бумаги и картона, с нанесением логотипа</title>
-<meta name="Description" content="Коробки из бумаги и картона, с нанесением логотипа">
-<meta name="Keywords" content="коробки бумажные пакеты с символикой фирмы, пакеты полиэтиленовые с символикой фирмы, производство изготовление пакетов, пвд, пнд">
+<meta name="Description" content="Компания Старт Полюс производит коробки из бумаги и картона, с нанесением логотипа">
+<meta name="Keywords" content="бумажные пакеты, бумажные пакеты производство, бумажные пакеты на заказ, бумажные пакеты с логотипом, пакеты из картона, пакеты из эфалина, готовые бумажные пакеты, коробки">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" type="text/css" href="navigation.css">
 </head>

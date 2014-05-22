@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
 <title>Банты, звездочки, розочки</title>
-<meta name="Description" content="банты звездочки розочки">
-<meta name="Keywords" content="подарочная упаковка банты звездочки розочки изготовление производство коробки бумажные пакеты с символикой фирмы, пакеты полиэтиленовые с символикой фирмы, нанесение">
+<meta name="Description" content="Компания Старт Полюс производит банты-звездочки и розочки">
+<meta name="Keywords" content="бумажные пакеты, бумажные пакеты производство, бумажные пакеты на заказ, бумажные пакеты с логотипом, пакеты из картона, пакеты из эфалина, готовые бумажные пакеты, банты-розочки">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" type="text/css" href="navigation.css">
 </head>

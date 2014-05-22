@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
 <title>Косметички</title>
-<meta name="Description" content="Косметички ">
-<meta name="Keywords" content="подарочная упаковка косметички изготовление производство коробки бумажные пакеты с символикой фирмы, пакеты полиэтиленовые с символикой фирмы, нанесение">
+<meta name="Description" content="Компания Старт Полюс производит косметички">
+<meta name="Keywords" content="бумажные пакеты, бумажные пакеты производство, бумажные пакеты на заказ, бумажные пакеты с логотипом, пакеты из картона, пакеты из эфалина, готовые бумажные пакеты, косметички">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" type="text/css" href="navigation.css">
 </head>

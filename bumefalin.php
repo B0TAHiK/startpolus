@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
 <title>Бумажные пакеты из эфалина с символикой фирмы</title>
-<meta name="Description" content="Бумажные пакеты из эфалина с символикой фирмы">
-<meta name="Keywords" content="бумажные пакеты из эфалина с символикой фирмы, пакеты полиэтиленовые с символикой фирмы, производство изготовление пакетов, пакеты печать, логотип, пакеты пвд пнд, шелкография, нанесение крафт">
+<meta name="Description" content="Компания Старт Полюс производит бумажные пакеты из эфалина с символикой фирмы">
+<meta name="Keywords" content="бумажные пакеты, бумажные пакеты производство, бумажные пакеты на заказ, бумажные пакеты с логотипом, пакеты из картона, пакеты из эфалина, готовые бумажные пакеты">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" type="text/css" href="navigation.css">
 </head>

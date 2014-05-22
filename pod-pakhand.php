@@ -5,9 +5,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
-        <title>Подарочная упаковка, собственное производство</title>
-        <meta name="Description" content="подарочная упаковка собственное производство">
-        <meta name="Keywords" content="подарочная упаковка собственное производство изготовление коробки бумажные пакеты с символикой фирмы, пакеты полиэтиленовые с символикой фирмы, нанесение">
+        <title>Готовые бумажные пакеты под нанесение</title>
+        <meta name="Description" content="Компания Старт Полюс производит пакеты бумажные под нанесение">
+        <meta name="Keywords" content="бумажные пакеты, бумажные пакеты производство, бумажные пакеты на заказ, бумажные пакеты с логотипом, пакеты из картона, пакеты из эфалина, готовые бумажные пакеты, пакеты бумажные под нанесение">
         <link rel="icon" href="favicon.ico" type="image/x-icon">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="style.css">

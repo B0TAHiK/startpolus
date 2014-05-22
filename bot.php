@@ -37,7 +37,7 @@ try { var yaCounter38305 = new Ya.Metrika({id:38305});
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/38305" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-</noindex><br></div>
+</div></noindex><br>
 <map name="m1"><area href="index.html" shape="rect" coords="0, 0, 14, 14" alt="Бумажные пакеты">
 <area href="map.php" shape="rect" coords="24, 0, 37, 14" alt="карта сайта " Бумажные="" пакеты="" производство="">
 <area href="mailto:matvey@start-polus.ru" shape="rect" coords="47, 0, 60, 14" alt="написать письмо директору"></map>

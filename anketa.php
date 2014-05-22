@@ -5,9 +5,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/php; charset=utf-8">
-<title>Анкета соискателя, список вакансий</title>
-<meta name="Description" content="Вакансии, работа, анкета соискателя">
-<meta name="Keywords" content="Вакансии, бумажные пакеты производство, полиэтиленовые пакеты, подарочная упаковка с символикой фирмы, изготовление пакетов,  логотип, заказ, логотип, пвд, пнд, ручка, производители, дизайн, флексография, шелкография">
+<title>Вакансии компании Старт Полюс</title>
+<meta name="Description" content="Список вакансий компании Старт Полюс, анкета соискателя">
+<meta name="Keywords" content="бумажные пакеты, бумажные пакеты производство, бумажные пакеты на заказ, бумажные пакеты с логотипом, пакеты из картона, пакеты из эфалина, готовые бумажные пакеты, вакансии, работа">
 <link rel="stylesheet" type="text/css" href="style.css">
 <link rel="stylesheet" type="text/css" href="navigation.css">
 </head>
